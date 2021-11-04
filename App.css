@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital@1&family=Roboto+Condensed&display=swap');
+
+body{
+  background-color:white;
+}
+
+h1{
+  font-family: 'Roboto Condensed', sans-serif;
+  color: purple;
+  text-align: center  ;
+}
+
+h2{
+  margin-left: 100vh;
+}
+
+.menu{
+  margin-left: 10vh;
+  margin-right: 170vh;
+  background-color: black;
+  padding-top: 2vh;
+  padding-bottom:  2vh;
+}
+
+.menuBtn{
+  background-color: black;
+  margin-left: 2vh;
+  border-style: none;
+}
+
+.aboutMe{
+  padding-top: 20vh;
+}
+
+.ramaImg{
+  height: 50vh;
+  border-radius: 10vh;
+}
